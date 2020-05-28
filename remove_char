@@ -1,0 +1,7 @@
+def remove_char(s): return s[1:-1]
+
+
+test = remove_char("confirming")
+print(test)
+
+# result : onfirmin
